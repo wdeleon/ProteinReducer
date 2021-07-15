@@ -10,4 +10,3 @@ mingw32-g++ main.cpp -o main.exe
 
 Linux:
 g++ main.cpp -o task2
-./main
